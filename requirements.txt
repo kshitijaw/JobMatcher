@@ -3,3 +3,4 @@ anthropic
 pdfplumber
 apify-client
 schedule
+psycopg2-binary
